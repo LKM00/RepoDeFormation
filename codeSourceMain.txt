@@ -1,4 +1,6 @@
 code source contenant le code principal de mon programme.
 
-#include<module1.h>
+optimisation nécessaires
 
+#include<module1.h>
+#include<module2.h>
